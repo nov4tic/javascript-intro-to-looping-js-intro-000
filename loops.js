@@ -12,7 +12,7 @@ while (n > 0) {
   return 'done';
 }
 
-let i = 0;
+let i = -1;
 
 function incrementVariable() {
   i = i + 1;
